@@ -25,11 +25,11 @@ ESP32-WROVER-EでRSSサイトにアクセスし、記事のタイトルと概要
 
 ## 配線図
 
-![wire](https://github.com/led-mirage/ESP32-RSSDisplay/assets/139528700/6818fb4e-34fb-4d4e-9e00-5c60a7800fac)
+![wire](https://github.com/led-mirage/ESP32-RSSDisplay/assets/139528700/c3663804-314a-40d8-8c31-e616bfc7ad4b)
 
 ## 実行画面
 
-https://github.com/led-mirage/ESP32-RSSDisplay/assets/139528700/6f50beff-2a73-420c-ade4-617e561cd731
+https://github.com/led-mirage/ESP32-RSSDisplay/assets/139528700/315f5483-b38b-4961-a40e-3d4392e313b2
 
 ## 開発環境
 
